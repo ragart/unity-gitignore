@@ -7,6 +7,8 @@ A custom `.gitignore` template for Unity projects, based on [GitHub's official U
 - [Unity.gitignore](Unity.gitignore) - My customized version.
 - [Unity.gitignore-official](Unity.gitignore-official) - The latest version of [GitHub's official Unity template](https://github.com/github/gitignore/blob/main/Unity.gitignore), kept here for reference and comparison.
 
+The official version is synchronized automatically from the [`github/gitignore`](https://github.com/github/gitignore) repository.
+
 ## Usage
 
 Copy `Unity.gitignore` to the root of a Unity project and rename it to `.gitignore`.
